@@ -4,8 +4,9 @@ Use a webcam, opencv, and drawing primitives to provide a simple game with real 
 The Bubbler - be memorable. 
 ---------------------------
 
-Demonstration video:
-        http://nathanharrington.info/files/bubbler_long_demo.mp4
+![Short demo](/demos/bubbler_short_demo.gif "Short Demo")
+
+Longer ![Demonstration video](/demos/bubbler_long_demo.mp4 "Long Demo video")
 
 Requirements:
         Python (x,y) 2.7.5.1 with PyOpenCv 
